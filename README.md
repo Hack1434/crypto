@@ -31,7 +31,8 @@
 > Add cryptocurrencies to your cart for future reference or purchase.
 
 > Manage cart items, including adding, removing, or updating quantities.
-**
-Acknowledgments:**
+
+**Acknowledgments:**
+
 Thanks to the creators of React.js, Material-UI, Chart.js, Firebase, and other open-source technologies used in this project.
 

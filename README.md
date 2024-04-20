@@ -13,8 +13,6 @@
 
 >External APIs are utilized for fetching real-time cryptocurrency data.
 
-Contributors are welcome to submit bug fixes, feature enhancements, or suggestions via pull requests.
-This project is licensed under the MIT License.
 
 **Installation:**
 >  Clone the repository to your local machine.
